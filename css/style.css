@@ -16,3 +16,26 @@ img {
     margin: 0 auto;
 
 }
+
+.center {
+    text-align: center;
+}
+
+#img-caption {
+background-color: white;
+text-align: center;
+}
+
+ul {
+max-width: 550px;
+margin: 0px auto 50px auto;
+}
+
+p {
+text-align: center;
+
+}
+a {
+    text-align: center;
+    
+    }
